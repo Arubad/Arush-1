@@ -1,3 +1,3 @@
 # Arush-1
-My first Git repository
+My first Git repository.
 Author - Arush Badhe
